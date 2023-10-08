@@ -1,5 +1,3 @@
-# Network_science_final_project
-
 ## Project:
 Ego-splitting Framework in C++
 
@@ -11,11 +9,6 @@ https://dl.acm.org/doi/10.1145/3097983.3098054
 
 ## Code Implementation :
 C++ 
-
-## Group: 9
-
-## Contrubutors:
-Raj Indroju, Sai Krishna Reddy Kandhadi, Pratyush Reddy Gaggenapalli
 
 ## Github URL: 
 https://github.com/PratyushGR/Network_science_final_project.git
