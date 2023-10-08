@@ -1,0 +1,125 @@
+//log file on test data set//
+####################################################################
+For node : 1
+
+Neighbours are : 2 , 3 , 
+
+Neighbouring edges are :(2 , 3), 
+
+Components are
+0  { 2 , 3 , }
+
+
+Personalities are : 0 , 
+
+####################################################################
+For node : 2
+
+Neighbours are : 1 , 3 , 
+
+Neighbouring edges are :(1 , 3), 
+
+Components are
+0  { 1 , 3 , }
+
+
+Personalities are : 1 , 
+
+####################################################################
+For node : 3
+
+Neighbours are : 2 , 1 , 4 , 5 , 6 , 
+
+Neighbouring edges are :(1 , 2), (4 , 6), (5 , 6), 
+
+Components are
+0  { 1 , 2 , }
+1  { 4 , 5 , 6 , }
+
+
+Personalities are : 2 , 3 , 
+
+####################################################################
+For node : 4
+
+Neighbours are : 3 , 6 , 
+
+Neighbouring edges are :(3 , 6), 
+
+Components are
+0  { 3 , 6 , }
+
+
+Personalities are : 4 , 
+
+####################################################################
+For node : 5
+
+Neighbours are : 3 , 6 , 
+
+Neighbouring edges are :(3 , 6), 
+
+Components are
+0  { 3 , 6 , }
+
+
+Personalities are : 5 , 
+
+####################################################################
+For node : 6
+
+Neighbours are : 3 , 4 , 5 , 7 , 8 , 
+
+Neighbouring edges are :(3 , 4), (3 , 5), (7 , 8), 
+
+Components are
+0  { 3 , 4 , 5 , }
+1  { 7 , 8 , }
+
+
+Personalities are : 6 , 7 , 
+
+####################################################################
+For node : 7
+
+Neighbours are : 6 , 8 , 
+
+Neighbouring edges are :(6 , 8), 
+
+Components are
+0  { 6 , 8 , }
+
+
+Personalities are : 8 , 
+
+####################################################################
+For node : 8
+
+Neighbours are : 6 , 7 , 
+
+Neighbouring edges are :(6 , 7), 
+
+Components are
+0  { 6 , 7 , }
+
+
+Personalities are : 9 , 
+final Components :
+{1:{2 : 0,3 : 0,},
+2:{1 : 1,3 : 1},
+3:{1 : 2,2 : 2,4 : 3,5 : 3,6 : 3},
+4:{3 : 4,6 : 4},
+5:{3 : 5,6 : 5},
+6:{3 : 6,4 : 6,5 : 6,7 : 7,8 : 7},
+7:{6 : 8,8 : 8},
+8:{6 : 9,7 : 9}}
+Personality mappings are : {0 : 1 , 1 : 2 , 2 : 3 , 3 : 3 , 4 : 4 , 5 : 5 , 6 : 6 , 7 : 6 , 8 : 7 , 9 : 8 , }
+
+Persona Graph edges are : {  ( 0 , 1 ),  ( 1 , 2 ),  ( 0 , 2 ),  ( 3 , 4 ),  ( 3 , 5 ),  ( 3 , 6 ),  ( 4 , 6 ),  ( 5 , 6 ),  ( 7 , 8 ),  ( 7 , 9 ),  ( 8 , 9 ), }
+
+Partitions are : { 0 : 0 , 1 : 0 , 2 : 0 , 3 : 1 , 4 : 1 , 5 : 1 , 6 : 1 , 7 : 2 , 8 : 2 , 9 : 2 , }
+
+Overlapping Partitions for the orginal graph : 
+{ 1 : [0 ,  ],2 : [0 ,  ],3 : [0 , 1 ,  ],4 : [1 ,  ],5 : [1 ,  ],6 : [1 , 2 ,  ],7 : [2 ,  ],8 : [2 ,  ],}
+
+
