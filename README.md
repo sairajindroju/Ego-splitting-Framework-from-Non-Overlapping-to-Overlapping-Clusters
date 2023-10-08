@@ -16,7 +16,6 @@ https://github.com/PratyushGR/Network_science_final_project.git
 # Input DataSets: 
 
 Data sets are provided int the Inputs directory we have tested our source code on 4 different datasets
-<img width="641" alt="image" src="https://user-images.githubusercontent.com/99221826/205421753-4be3ed68-9fc0-49fb-aa87-d25cf8d5b277.png">
 
 ## a. Test
 This is small graph authors have used to explain the framework in the research paper.  Graph with 9 nodes and 11 edges. 
@@ -64,8 +63,6 @@ g++ /path/to/file/ego_split.cpp -o /path/to/file/ego_split && /path/to/file/ego_
 <img width="814" alt="image" src="https://user-images.githubusercontent.com/99221826/205422779-97386d01-a1f8-49d7-b3e8-b12fe3876991.png">
 
 We have uploaded our exectionlogs on the above 4 data sets in the outputs folder
-
-<img width="717" alt="image" src="https://user-images.githubusercontent.com/99221826/205423939-bc24ce82-632d-44b9-99be-acb278e49ad9.png">
 
 
 # Evaluation of our ego-splitting algorithm
