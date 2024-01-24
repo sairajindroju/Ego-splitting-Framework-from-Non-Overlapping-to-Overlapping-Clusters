@@ -8,10 +8,7 @@ Implementation-flavor
 https://dl.acm.org/doi/10.1145/3097983.3098054 
 
 ## Code Implementation :
-C++ 
-
-## Github URL: 
-https://github.com/PratyushGR/Network_science_final_project.git
+C++, R 
 
 # Input DataSets: 
 
